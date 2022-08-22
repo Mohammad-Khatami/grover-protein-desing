@@ -4,4 +4,4 @@ the code is tested with python 3.8.2 version.
 
 the file name "functions_ripple_carry_adder_E8.py" file has the necessary functions used in the design code.
 
-the fil
+the file name 
