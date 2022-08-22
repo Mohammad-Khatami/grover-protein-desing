@@ -865,3 +865,4 @@ def energy_dg(qc,a,d,x,y,var_qubits,ene_a_qubits):
     qc.x(var_qubits[e])
     qc.x(var_qubits[b])
 
+
