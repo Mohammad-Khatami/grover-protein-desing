@@ -99,6 +99,6 @@ data=result.get_counts()
 print('1000000 shots in {}s'.format(result.time_taken))
 
 # save output in text file!
-with open('3res-2inter-m5-iter-1-E7.txt', 'w') as file:
+with open('SP-3res-2inter-m5-iter-1-E7.txt', 'w') as file:
     file.write(str(data))
 
