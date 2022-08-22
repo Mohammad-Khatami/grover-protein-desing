@@ -131,6 +131,6 @@ print('1000000 shots in {} s'.format(result.time_taken))
 print('Ennergy thresh was {} E'.format(thrsh))
 #print (data)
 # save the data
-with open('MR_s3_ie_m9p5_R1_Eth80.txt', 'w') as file:
+with open('MR_s3_i3_m9p5_R1_Eth80.txt', 'w') as file:
     file.write(str(data))
 
